@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on end-to-end data science projects, including customer churn prediction models and recommendation systems, alongside managing my e-commerce ventures.<br><br>👯 I’m looking to collaborate on Python-based automation projects, web apps utilizing Streamlit, Tkinter, or Flask, and interesting data science and analysis tasks.<br><br>🤝 I’m looking for help with growing in the field of Data Science.<br><br>🌱 I’m currently learning advanced machine learning concepts.<br><br>💬 Ask me about web scraping with Selenium, building Python bots, data science workflows, or even tips on luxury fashion aesthetics.
+🔭 I’m currently working on end-to-end data science projects, including customer churn prediction models and recommendation systems, alongside managing my e-commerce ventures.<br><br>👯 I’m looking to collaborate on Python-based automation projects, web apps utilizing Streamlit, Tkinter, or Flask, and interesting data science and analysis tasks.<br><br>🤝 I’m looking for help with growing in the field of Data Science.<br><br>🌱 I’m currently learning advanced machine learning concepts.<br><br>💬 Ask me about web scraping with Selenium, building Python bots, data science workflows.
 
 
 ## 🌐 Social:
