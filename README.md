@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=170&section=header&text=Asad%20Ijaz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20%26%20LLM%2FRAG%20Agents&descSize=18&descAlignY=60" alt="Asad Ijaz, Data Scientist" />
+<h1>Asad Ijaz</h1>
+<h3>Data Scientist · ML &amp; LLM/RAG Agents</h3>
+<p><i>I build predictive models and the software that puts them to work.</i></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=I+build+predictive+models+and+the+software+that+puts+them+to+work;LLM+and+RAG+agents+with+LangGraph;Data+pipelines+and+automation+in+Python" alt="I build predictive models and the software that puts them to work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=40&lines=Predictive+ML+and+churn+modeling;LLM+and+RAG+agents+with+LangGraph;Data+pipelines+and+automation+in+Python" alt="Predictive ML, LLM and RAG agents, data pipelines" />
 
 <br/>
 
